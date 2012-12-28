@@ -1,0 +1,9 @@
+target/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea/
+jammer.yml
+logs/*.log
+logs/*.log.gz

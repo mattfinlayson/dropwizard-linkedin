@@ -1,0 +1,3 @@
+consumerKeyValue: XXX
+consumerSecretValue: XXX
+callbackUrl: 'http://localhost:8080/linkedin/verify'
